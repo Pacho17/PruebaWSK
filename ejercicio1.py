@@ -1,4 +1,4 @@
 numero =int(input("ingrese un numero:"))
 
-print ("hay", numero, "numeros en total")
+print ("hay", numero, "numeros en total JAJAJA")
 
